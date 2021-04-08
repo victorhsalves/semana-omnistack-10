@@ -1,0 +1,7 @@
+
+// get, post, put, delete
+
+//Tipos de parâmetros:
+//QUERY PARAMS: request.query (filtros, ordenação, paginação, ...)
+//ROUTE PARAMS: request.params (identificar um recurso na alteração ou remoção)
+//BODY: request.body (Dados para criação ou alteração de um registro)
